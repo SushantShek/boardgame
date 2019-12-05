@@ -1,0 +1,20 @@
+This is a Pit Game Board application
+==========================================
+
+RUN
+-------
+The application is made and is run with the help of Applet
+The Main class from which applet is run is PitBoard.java
+
+If you are importing the project in Editor you can directly run PitBoard.java as a JavaApplication
+
+From out side you have to do a javac PitBoard.java
+and then appletviewer PitBoard.java
+
+Extension
+==========================================
+The project while working on it i wanted to extend it as a web-service application.
+So thats why BoardApplication.java class is present.
+Although right now it can only run as a simple java application where you can give command line request.
+
+If this seems an overhead or otherwise, it can be ignored or removed entirely. 
